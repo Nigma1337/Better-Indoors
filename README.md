@@ -3,4 +3,8 @@ Uses the DHT22 and MQ-135 sensors to read and output humidity, temperature and a
 
 To install, have the Arduino IDE (https://www.arduino.cc/en/Main/Software).
 
-Download/copy+paste the code from 
+Download/copy+paste the code from Better_Indoors.ino
+
+In your IDE, go to tools > manage libaries and install the DHT libary from Adafruit
+
+Upload to the Arduino, and have fun!
